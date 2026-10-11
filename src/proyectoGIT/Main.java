@@ -17,6 +17,8 @@ public class Main {
 		System.out.println("¿Cúantos años tienes "+nombre+"?");
 		int edad = sc.nextInt();
 		
+		System.out.println("Estás grande colega");
+		
 		sc.close();
 
 	}
