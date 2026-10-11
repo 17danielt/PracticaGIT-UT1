@@ -19,6 +19,7 @@ public class Main {
 		
 		String mayoria = (edad>=12)?
 		   "¡Que grande eres!":"Aun te falta crecer";
+		System.out.println(mayoria);
 		
 		
 		sc.close();
