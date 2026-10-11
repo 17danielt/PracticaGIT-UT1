@@ -15,6 +15,7 @@ public class Main {
 		System.out.println("Hola "+nombre);
 		
 		System.out.println("¿Cúantos años tienes "+nombre+"?");
+		int edad = sc.nextInt();
 		
 		sc.close();
 
