@@ -17,7 +17,10 @@ public class Main {
 		System.out.println("¿Cúantos años tienes "+nombre+"?");
 		int edad = sc.nextInt();
 		
-		System.out.println("Estás grande colega");
+		String mayoria = (edad>=12)?
+		   "¡Que grande eres!":"Aun te falta crecer";
+		System.out.println(mayoria);
+		
 		
 		sc.close();
 
