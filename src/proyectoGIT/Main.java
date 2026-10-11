@@ -14,6 +14,8 @@ public class Main {
 		String nombre = sc.nextLine();
 		System.out.println("Hola "+nombre);
 		
+		System.out.println("¿Cúantos años tienes "+nombre+"?");
+		
 		sc.close();
 
 	}
