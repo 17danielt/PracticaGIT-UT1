@@ -21,7 +21,7 @@ public class Main {
 		   "¡Que grande eres!":"Aun te falta crecer";
 		System.out.println(mayoria);
 		
-		
+		System.out.println("Muchas gracias.");
 		sc.close();
 
 	}
